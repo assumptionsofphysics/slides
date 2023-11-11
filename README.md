@@ -1,2 +1,2 @@
-# slides
-Powerpoint slides used for YouTube videos
+# YouTube slides
+This repository contains slides used for YouTube videos.
